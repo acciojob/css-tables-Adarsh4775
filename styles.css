@@ -1,9 +1,10 @@
 /*  your css code here. If applicable */
-th,td{
+th{
 	border: 1px solid #ccc;
 	border-radius:5px;
 	padding:0.5em;
 }
+
 #even1{
 	background-color:#f2f2f2 ;
 }
@@ -17,4 +18,24 @@ th,td{
 }
 #odd2{
 	background-color: #ffffff;
+}
+.cell1{
+	border: 1px solid #ccc;
+	border-radius:5px;
+	padding:0.5em;
+}
+.cell2{
+	border: 1px solid #ccc;
+	border-radius:5px;
+	padding:0.5em;
+}
+.cell3{
+	border: 1px solid #ccc;
+	border-radius:5px;
+	padding:0.5em;
+}
+.cell4{
+	border: 1px solid #ccc;
+	border-radius:5px;
+	padding:0.5em;
 }
