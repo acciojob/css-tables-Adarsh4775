@@ -5,10 +5,10 @@ th,td{
 	padding:8px;
 }
 .cell3, .cell4, .cell7,.cell8{
-	background-color:rgb(242, 242, 242);
+	background-color:rgb(255, 255, 255);
 }
 .cell1, .cell2, .cell5,.cell6{
-	background-color:rgb(255, 255, 255);
+	background-color:rgb(242, 242, 242);
 }
 
 
