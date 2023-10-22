@@ -4,19 +4,8 @@ th,td{
 	border-radius:5px;
 	padding:8px;
 }
-
-#even1{
-	background-color:rgb(255, 255, 255); ;
-}
-#even2{
-	background-color:rgb(255, 255, 255);
-	
-}
-#odd1{
-	
-	background-color: rgb(242, 242, 242);
-}
-#odd2{
+.cell2, .cell4{
 	background-color:rgb(242, 242, 242);
 }
+
 
