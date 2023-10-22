@@ -1,41 +1,41 @@
 /*  your css code here. If applicable */
 th{
-	border: 1px solid #ccc;
+	border: 1px solid rgb(204, 204, 204);
 	border-radius:5px;
-	padding:0.5em;
+	padding:8px;
 }
 
 #even1{
-	background-color:#f2f2f2 ;
+	background-color:rgb(242, 242, 242) ;
 }
 #even2{
-	background-color:#f2f2f2 ;
+	background-color:rgb(242, 242, 242)
 	
 }
 #odd1{
 	
-	background-color: #ffffff;
+	background-color: rgb(255, 255, 255);
 }
 #odd2{
-	background-color: #ffffff;
+	background-color:rgb(255, 255, 255);
 }
 .cell1{
-	border: 1px solid #ccc;
+	border: 1px solid rgb(204, 204, 204);
 	border-radius:5px;
-	padding:0.5em;
+	padding:8 px;
 }
 .cell2{
-	border: 1px solid #ccc;
+	border: 1px solid rgb(204, 204, 204);
 	border-radius:5px;
-	padding:0.5em;
+	padding:8 px;
 }
 .cell3{
-	border: 1px solid #ccc;
+	border: 1px solid rgb(204, 204, 204);
 	border-radius:5px;
-	padding:0.5em;
+	padding:8 px;
 }
 .cell4{
-	border: 1px solid #ccc;
+	border: 1px solid rgb(204, 204, 204);
 	border-radius:5px;
-	padding:0.5em;
+	padding:8 px;
 }
